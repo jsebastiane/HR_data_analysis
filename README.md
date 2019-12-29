@@ -1,2 +1,2 @@
 # HR_data_analysis
-An attempt to determine whether an employee will leave or stay at a company
+Finding the best model to determine whether an employee will stay or leave at a company
